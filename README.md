@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+```
+  ___________________
+< Hi there 👋 again! >
+  ===================
+                        \
+                         \
+                           ^__^                             
+                           (oo)\_______                   
+                           (__)\       )\/\             
+                               ||----w |           
+                               ||     ||  
+```
 <!--
 **liokm/liokm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
